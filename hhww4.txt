@@ -6,10 +6,10 @@ food = "pizza";
 		        Console.WriteLine("It cost you NT900.");
 		break;
 	    case "rice":
-		        Console.WriteLine ("It cost you NT999999.");
+		        Console.WriteLine ("It cost you NT999.");
 		break;
 	    case "shit":
-		        Console.WriteLine ("It cost you NT8888888.");
+		        Console.WriteLine ("It cost you NT888.");
 		break;
 	    default:    
 		        Console.WriteLine ("Sorry,we do not sell"+food+".");
