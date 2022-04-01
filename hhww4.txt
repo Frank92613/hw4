@@ -1,0 +1,17 @@
+
+string food;
+food = "pizza";
+    switch (food){
+	    case "pizza":
+		        Console.WriteLine("It cost you NT900.");
+		break;
+	    case "rice":
+		        Console.WriteLine ("It cost you NT999999.");
+		break;
+	    case "shit":
+		        Console.WriteLine ("It cost you NT8888888.");
+		break;
+	    default:    
+		        Console.WriteLine ("Sorry,we do not sell"+food+".");
+		break;
+}
